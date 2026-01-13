@@ -56,3 +56,6 @@ My journey into web development started with learning the basics of HTML, CSS, a
 
 This profile reflects my learning path and progress in frontend development.  
 Most repositories here are educational or practice-based projects, focused on improving code quality, structure, and real-world development skills.
+
+## 🐍 GitHub Activity
+![snake gif](https://github.com/whoaskedssselery/whoaskedssselery/blob/output/github-snake-dark.svg)

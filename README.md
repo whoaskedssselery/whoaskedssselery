@@ -6,7 +6,7 @@
 
 I'm a sophomore Fullstack Development student at **RTU MIREA**, currently focused on **frontend development**.
 
-My journey into web development started with learning the basics of HTML, CSS, and JavaScript. Over time, I became especially interested in building clean, structured, and maintainable user interfaces.
+My journey into web development started with learning the basics of HTML, CSS, JavaScript, JSX(vite + minista). Over time, I became especially interested in building clean, structured, and maintainable user interfaces.
 
 - 🎓 Sophomore student at RTU MIREA  
 - 🌱 Currently learning **TypeScript** and **React**  

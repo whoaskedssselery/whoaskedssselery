@@ -27,6 +27,7 @@ My journey into web development started with learning the basics of HTML, CSS, J
 - HTML5  
 - CSS3 / SCSS (BEM)  
 - JavaScript (ES6+)  
+- JSX (Vite&minista)
 
 **In progress:**
 - TypeScript  

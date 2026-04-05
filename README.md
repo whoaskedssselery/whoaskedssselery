@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Maksim Korzhnev · Frontend Developer (Student)
+### Maksim Korzhnev · Frontend Developer
 
 ## 👨‍💻 About me
 

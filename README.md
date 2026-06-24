@@ -4,14 +4,14 @@
 
 ## 👨‍💻 About me
 
-I'm a sophomore Fullstack Development student at **RTU MIREA**, currently focused on **frontend development**.
+I'm a second-year Fullstack Development student at **RTU MIREA**, focused on **frontend development**.
 
-My journey into web development started with learning the basics of HTML, CSS, JavaScript, JSX(vite + minista). Over time, I became especially interested in building clean, structured, and maintainable user interfaces.
+Started with HTML, CSS, and JavaScript, then moved into building real projects with React and TypeScript. Currently interested in frontend architecture, component design, and writing clean, maintainable code.
 
-- 🎓 Sophomore student at RTU MIREA  
-- 🌱 Currently learning **TypeScript** and **React**  
-- 🧠 Focused on writing clean, readable, and maintainable code  
-- 💡 Interested in frontend architecture and UI logic  
+- 🎓 Second-year student at RTU MIREA
+- 🔨 Recently shipped **Typist** — a keyboard trainer built with React + TypeScript
+- 🧠 Focused on clean architecture and meaningful abstractions
+- 🌱 Currently exploring backend integration (Supabase, TanStack Query)
 
 ---
 
@@ -24,36 +24,41 @@ My journey into web development started with learning the basics of HTML, CSS, J
 ## 🛠 Tech Stack
 
 **Frontend:**
-- HTML5  
-- CSS3 / SCSS (BEM)  
-- JavaScript (ES6+)  
-- JSX (Vite&minista)
+- HTML5
+- CSS3 / SCSS (BEM)
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Zustand
+
+**Tooling:**
+- Biome
+- Vite
 
 **In progress:**
-- TypeScript  
-- React  
+- TanStack Query
+- Zod
+- Supabase
 
 ---
 
 ## ⚙️ Tools & Environment
 
-- Git / GitHub  
-- VS Code  
-- WebStorm  
-- Figma  
-- Photoshop  
+- Git / GitHub
+- WebStorm
+- Figma
 
 ---
 
-## 📂 Featured Repository
+## 📂 Featured Project
 
-- 🎨 **VS Code Customization**  
-  Personal setup and customization of my VS Code environment, including extensions, settings, and workflow tweaks.  
-  👉 [View repository](https://github.com/whoaskedssselery/Customization)
+- ⌨️ **Typist — Keyboard Trainer**
+  A keyboard training app with practice modes, WPM tracking, and accuracy stats.
+  Built with React, TypeScript, Zustand, SCSS (BEM), Biome.
+  👉 [View repository](https://github.com/whoaskedssselery/typist)
 
 ---
 
 ## 📌 Notes
 
-This profile reflects my learning path and progress in frontend development.  
-Most repositories here are educational or practice-based projects, focused on improving code quality, structure, and real-world development skills.
+Most repositories here are personal or educational projects focused on improving code quality, architecture, and real-world development skills.

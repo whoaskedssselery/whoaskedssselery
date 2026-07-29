@@ -17,7 +17,7 @@ Started with HTML, CSS, and JavaScript, then moved into building real projects w
 
 ## 🔗 Contacts
 
-- 💬 Telegram: [@ssselery](https://t.me/ssselery)
+- 💬 Telegram: [@ssselery](https://t.me/tiredssselery)
 
 ---
 

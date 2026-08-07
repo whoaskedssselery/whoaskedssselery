@@ -4,14 +4,13 @@
 
 ## 👨‍💻 About me
 
-I'm a second-year Fullstack Development student at **RTU MIREA**, focused on **frontend development**.
+I'm a junior-year Fullstack Development student at **RTU MIREA**, focused on **frontend development**.
 
-Started with HTML, CSS, and JavaScript, then moved into building real projects with React and TypeScript. Currently interested in frontend architecture, component design, and writing clean, maintainable code.
+I prefer building full projects over doing isolated exercises — it's just a better way to actually learn.
 
-- 🎓 Second-year student at RTU MIREA
-- 🔨 Recently shipped **Typist** — a keyboard trainer built with React + TypeScript
+- 🎓 Junior-year student at RTU MIREA
+- 🎧 Recently shipped **Wavely** — a full-featured music player (React + TypeScript + Supabase)
 - 🧠 Focused on clean architecture and meaningful abstractions
-- 🌱 Currently exploring backend integration (Supabase, TanStack Query)
 
 ---
 
@@ -24,21 +23,16 @@ Started with HTML, CSS, and JavaScript, then moved into building real projects w
 ## 🛠 Tech Stack
 
 **Frontend:**
-- HTML5
-- CSS3 / SCSS (BEM)
-- JavaScript (ES6+)
-- TypeScript
-- React
-- Zustand
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Zustand](https://img.shields.io/badge/Zustand-orange?logo=react&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+
+**Backend:**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 **Tooling:**
-- Biome
-- Vite
 
-**In progress:**
-- TanStack Query
-- Zod
-- Supabase
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Biome](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=white)
 
 ---
 
@@ -51,6 +45,13 @@ Started with HTML, CSS, and JavaScript, then moved into building real projects w
 ---
 
 ## 📂 Featured Project
+
+- 🎧 **Wavely — Music Player**
+  A personal music player: own track collection, playlists, shuffle mode, drag-and-drop
+  reordering, email OTP / OAuth auth, light & dark themes.
+  Built with React 19, TypeScript, Zustand, TanStack Query, SCSS (BEM, FSD architecture),
+  self-hosted Supabase.
+  👉 [View repository](https://github.com/whoaskedssselery/wavely)
 
 - ⌨️ **Typist — Keyboard Trainer**
   A keyboard training app with practice modes, WPM tracking, and accuracy stats.

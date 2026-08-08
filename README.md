@@ -49,7 +49,7 @@ I prefer building full projects over doing isolated exercises — it's just a be
 - 🎧 **Wavely — Music Player**
   A personal music player: own track collection, playlists, shuffle mode, drag-and-drop
   reordering, email OTP / OAuth auth, light & dark themes.
-  Built with React 19, TypeScript, Zustand, TanStack Query, SCSS (BEM, FSD architecture),
+  Built with React 19, TypeScript, Zustand, TanStack Query, SCSS (BEM), FSD architecture,
   self-hosted Supabase.
   👉 [View repository](https://github.com/whoaskedssselery/wavely)
 

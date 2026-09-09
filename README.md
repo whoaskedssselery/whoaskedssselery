@@ -16,7 +16,7 @@ I prefer building full projects over doing isolated exercises — it's just a be
 
 ## 🔗 Contacts
 
-- 💬 Telegram: [whoaskedssselery](https://t.me/tiredssselery)
+- 💬 Telegram: [whoaskedssselery](https://t.me/whoaskedssselery)
 
 ---
 

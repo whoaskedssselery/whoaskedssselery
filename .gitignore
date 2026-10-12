@@ -1,0 +1,10 @@
+node_modules
+dist
+*.local
+.DS_Store
+*.tsbuildinfo
+
+# Claude workspace, design tooling and IDE state
+.claude/
+.impeccable/
+.idea/

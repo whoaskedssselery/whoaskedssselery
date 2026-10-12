@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+		<title>Maksim Korzhnev</title>
+		<meta
+			name="description"
+			content="Portfolio of Maksim Korzhnev, a frontend developer building complete products with React and TypeScript."
+		/>
+		<meta name="color-scheme" content="light dark" />
+		<meta name="theme-color" content="#e9e9e5" media="(prefers-color-scheme: light)" />
+		<meta name="theme-color" content="#0f0f0e" media="(prefers-color-scheme: dark)" />
+		<link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+		<link rel="preload" as="image" href="./macbook.png" fetchpriority="high" media="(min-width: 760px)" />
+		<script>
+			;(() => {
+				const root = document.documentElement
+				let theme = null
+				let lang = null
+				try {
+					const saved = JSON.parse(localStorage.getItem('portfolio:settings') || '{}').state || {}
+					theme = saved.theme
+					lang = saved.lang
+				} catch {}
+				if (theme !== 'light' && theme !== 'dark') {
+					theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+				}
+				if (lang !== 'en' && lang !== 'ru') {
+					lang = (navigator.language || '').toLowerCase().startsWith('ru') ? 'ru' : 'en'
+				}
+				root.dataset.theme = theme
+				root.lang = lang
+			})()
+		</script>
+	</head>
+	<body>
+		<div id="root"></div>
+		<script type="module" src="/src/main.tsx"></script>
+	</body>
+</html>

@@ -1,0 +1,29 @@
+.roll {
+  display: inline-block;
+  height: 1.2em;
+  overflow: hidden;
+  line-height: 1.2;
+  vertical-align: bottom;
+
+  &__inner {
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.55s var(--ease-out);
+  }
+
+  &__line {
+    display: block;
+    height: 1.2em;
+    white-space: nowrap;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .roll-trigger:hover .roll__inner {
+    transform: translateY(-50%);
+  }
+}
+
+.roll-trigger:focus-visible .roll__inner {
+  transform: translateY(-50%);
+}

@@ -1,0 +1,15 @@
+.section-title {
+  overflow: hidden;
+  margin-bottom: clamp(2rem, 5vw, 4rem);
+  padding-bottom: 0.05em;
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 4.5rem);
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  line-height: 0.9;
+  text-transform: uppercase;
+
+  &__inner {
+    display: block;
+  }
+}

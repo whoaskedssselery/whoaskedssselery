@@ -1,0 +1,20 @@
+.curtain {
+  position: fixed;
+  inset: 0;
+  z-index: 280;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background: var(--accent);
+  color: var(--on-accent);
+
+  &__label {
+    display: block;
+    font-family: var(--font-display);
+    font-size: clamp(3rem, 12vw, 12rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+}
